@@ -194,6 +194,8 @@ Data was extracted from Oracle using SQL queries and visualized using:
 - Pivot tables
 
 ---
+![Table](screenshots/BI.png)
+![Table](screenshots/BI%20view.png)
 
 #  Final Project Status
  All phases successfully implemented  
