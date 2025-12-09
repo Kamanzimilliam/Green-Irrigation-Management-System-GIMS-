@@ -46,6 +46,7 @@ The logical model defined:
 - Employees manage system operations  
 
 ---
+![Table](screenshots/Mimi's%20BPMN.png)
 
 #  PHASE III: Physical Database Design
 In this phase:
@@ -57,6 +58,7 @@ In this phase:
 All tables were optimized for real production usage.
 
 ---
+![Table](screenshots/Mimi's%20ERD.png)
 
 #  PHASE IV: Database User & Security Configuration
 This phase handled:
